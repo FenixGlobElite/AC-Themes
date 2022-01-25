@@ -1,0 +1,37 @@
+{
+    "manifest": {
+        "version": "1.1.0",
+        "license": "MIT",
+        "author": "Fenix#4060",
+        "name": "TorCord DarkWeb Theme"
+    },
+    "background": {
+        "overlay_alpha": 120,
+        "url": "https:\/\/raw.githubusercontent.com\/djario\/Aliucord_nightcat_theme\/main\/nightcat.jpeg"
+    },
+    "fonts": {
+        "*": "https:\/\/cdn.discordapp.com\/attachments\/935158018239238274\/935162202212679730\/mate.regular.ttf.otf"
+    },
+    "simple_colors": {
+        "accent": -5490975,
+        "background": -16777216,
+        "background_secondary": -16777216,
+        "mention_highlight": 619741426
+    },
+    "colors": {
+        "accent_material_dark": -474465868,
+        "uikit_btn_bg_color_selector_green": -5173579
+    },
+    "drawable_tints": {
+        "ic_status_online_16dp": -16711874,
+        "ic_status_dnd_16dp": -65536,
+        "ic_status_idle_16dp": -1441537,
+        "ic_status_invisible_16dp": -6588002,
+        "ic_add_friend_plus": -16711905,
+        "ic_remove_friend_red_24dp": -65536,
+        "ic_tab_friends": -9050754,
+        "drawable_button_green": -65394,
+        "ic_phone_24dp": -16646400
+    },
+    "raws": {}
+}
