@@ -6,9 +6,7 @@
         "name": "TorCord DarkWeb Theme",
         "updater": "https://raw.githubusercontent.com/FenixGlobElite/AC-Themes/main/TorCord.json"
     },
-    "background": {
-        "overlay_alpha": 120,
-    },
+    "background": {},
     "fonts": {
         "*": "https:\/\/cdn.discordapp.com\/attachments\/935158018239238274\/935162202212679730\/mate.regular.ttf.otf"
     },
