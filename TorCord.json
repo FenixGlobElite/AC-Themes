@@ -1,9 +1,10 @@
 {
     "manifest": {
-        "version": "1.1.0",
+        "version": "1.0.0",
         "license": "MIT",
         "author": "Fenix#4060",
-        "name": "TorCord DarkWeb Theme"
+        "name": "TorCord DarkWeb Theme",
+        "updater": "https:\/\/raw.githubusercontent.com\/FenixGlobElite\/Aliucord-Themes\/main\/TorCord.json?token=GHSAT0AAAAAABP7WBP3EVE6OB2LZBUIHW2QYPP3"
     },
     "background": {
         "overlay_alpha": 120,
